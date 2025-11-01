@@ -1,5 +1,12 @@
 # Overview
 
+This project was created as part of the **Hello World Module** for the BYU-Pathway CSE 310 course.  
+The purpose of this activity was to ensure a working development environment and demonstrate the ability to create, document, and publish software using GitHub.
+
+The program was written in **TypeScript** and simply prints a personalized "Hello World" message to the console, along with some basic variable declarations and a simple function example.
+
+A short video was recorded to demonstrate the program execution, provide a walkthrough of the code, and include a brief personal introduction.
+
 # Hello World - TypeScript
 
 This is a simple "Hello World" project to practice TypeScript :)
