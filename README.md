@@ -20,12 +20,10 @@ A simple program written in TypeScript that prints "Hello World" to the screen.
 
 `node dist/index.js`
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
-**Author:** Andrea Ferreira  
-Software Development Student at BYU-Idaho
+**Author:** Andrea Brenzink
+Mid Backend Developer
 
 # Development Environment
 
@@ -35,6 +33,5 @@ Software Development Student at BYU-Idaho
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
