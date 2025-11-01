@@ -27,11 +27,17 @@ Mid Backend Developer
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+This project was developed using **Visual Studio Code** as the main code editor.  
+The following tools were also used:
+- **Node.js** (v22.11.0) – to run the TypeScript code after compilation.  
+- **npm** – to manage project dependencies.  
+- **TypeScript Compiler (tsc)** – to transpile TypeScript code into JavaScript.  
 
-{Describe the programming language that you used}
+The code was written in **TypeScript**, a strongly typed superset of JavaScript that adds static typing and other powerful features to make code more reliable and maintainable.
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [TypeScript Official Documentation](https://www.typescriptlang.org/docs/)
+* [Node.js Official Website](https://nodejs.org/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [MDN Web Docs - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
